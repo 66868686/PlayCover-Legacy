@@ -1,2 +1,1 @@
-# PlayCover-Legacy
-An archive of iVoider's PlayCover
+Wayback Machine - PlayCover Archive
